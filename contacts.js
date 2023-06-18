@@ -13,7 +13,7 @@ const list = async () => {
   return JSON.parse(data);
 };
 
-const getById = async (contactId) => {
+const get = async (contactId) => {
   const contacts = await list();
   const result = contacts.find((contact) => contact.id === contactId);
   return result || null;
@@ -48,7 +48,7 @@ const add = async (name, email, phone) => {
 
 module.exports = {
   list,
-  getById,
+  get,
   remove,
   add,
 };

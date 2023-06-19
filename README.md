@@ -2,7 +2,7 @@
 
 File JSON request handling
 
-![Getting all contacts](https://ibb.co/CvwPmtY)
+[Getting all contacts](https://ibb.co/CvwPmtY)
 
 ![Get contact by ID](https://ibb.co/qBCZY7x)
 

@@ -8,4 +8,4 @@ File JSON request handling
 
 [Add new contact ](https://ibb.co/X5SmDxr)
 
-![Remove contact ](https://ibb.co/QDqQWmR)
+[Remove contact ](https://ibb.co/QDqQWmR)

@@ -2,10 +2,16 @@
 
 File JSON request handling
 
-[Getting all contacts](https://ibb.co/CvwPmtY)
+## Screenshots
 
-[Get contact by ID](https://ibb.co/qBCZY7x)
+[![Getting all contacts](./img/list.jpg)](https://ibb.co/CvwPmtY)
 
-[Add new contact ](https://ibb.co/X5SmDxr)
+[![Get contact by ID](./img/get.jpg)](https://ibb.co/qBCZY7x)
 
-[Remove contact ](https://ibb.co/QDqQWmR)
+[![Add new contact ](./img/add.jpg)](https://ibb.co/X5SmDxr)
+
+[![Remove contact ](./img/remove.jpg)](https://ibb.co/QDqQWmR)
+
+### Read on Ukrainian
+
+[README.ukr](README.ukr.md)

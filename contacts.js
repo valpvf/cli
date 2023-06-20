@@ -24,11 +24,11 @@ const remove = async (contactId) => {
   const contactIndex = contacts.findIndex(
     (el) => el.id === contactId
   );
-  if (contactIndex === -1) throw Error("No such contact");
   const removedContact = contacts[contactIndex];
+  // if (contactIndex === -1) removedContact = null;
   contacts.splice(contactIndex, 1);
   await update(contacts);
-  return removedContact;
+  return removedContact || null;
 };
 
 const add = async (name, email, phone) => {

@@ -1,16 +1,28 @@
-# CLI (command-line interface) applications on Node.js with commander
+# CLI (command-line interface) applications on Node.js with Commander
 
 File JSON request handling
 
+## Tech Stack
+
+**Server:** Node.js, Commander
+
+## 🛠 Skills
+
+Javascript, Node.js
+
 ## Screenshots
 
-[![Getting all contacts](./img/list.jpg)](https://ibb.co/CvwPmtY)
+- Getting all contacts
+  [![Getting all contacts](./img/list.jpg)](https://ibb.co/album/XVBHvC)
 
-[![Get contact by ID](./img/get.jpg)](https://ibb.co/qBCZY7x)
+- Get contact by ID
+  [![Get contact by ID](./img/get.jpg)](https://ibb.co/album/XVBHvC)
 
-[![Add new contact ](./img/add.jpg)](https://ibb.co/X5SmDxr)
+- Add new contact
+  [![Add new contact](./img/add.jpg)](https://ibb.co/album/XVBHvC)
 
-[![Remove contact ](./img/remove.jpg)](https://ibb.co/QDqQWmR)
+- Remove contact
+  [![Remove contact](./img/remove.jpg)](https://ibb.co/album/XVBHvC)
 
 ### Read on Ukrainian
 
